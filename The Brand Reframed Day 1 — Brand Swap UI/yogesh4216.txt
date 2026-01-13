@@ -1,0 +1,16 @@
+Figma link:
+https://www.figma.com/design/YAh5qOn9kohQrw6rJHsbcI/Zomato---Swiggy?node-id=0-1&t=tXquoRNTflmAaOmp-1
+
+Brand pair chosen:
+Zomato -> Swiggy
+
+Key design decisions:
+- Color: Zomato’s bold red/orange for urgency & appetite; Swiggy’s orange for friendly, approachable feel.
+
+- Typography: Bold, large headings to highlight offers and actions quickly.
+
+- Layout: Simple, card-based UI for fast scanning and easy ordering.
+
+- CTA Placement: Clear buttons like Order Now and Continue to reduce friction.
+
+- Imagery: High-quality food visuals to trigger cravings and build trust.
